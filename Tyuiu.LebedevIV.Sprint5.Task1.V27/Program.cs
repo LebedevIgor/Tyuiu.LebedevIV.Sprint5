@@ -21,7 +21,7 @@ namespace Tyuiu.LebedevIV.Sprint5.Task1.V27
             Console.WriteLine("* Спринт #5                                                               *");
             Console.WriteLine("* Тема: Обработка файлов                                                  *");
             Console.WriteLine("* Задание #1                                                              *");
-            Console.WriteLine("* Вариант #7                                                              *");
+            Console.WriteLine("* Вариант #27                                                              *");
             Console.WriteLine("* Выполнил: Лебедев Игорь Владимирович | ИИПб-23-3                        *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
